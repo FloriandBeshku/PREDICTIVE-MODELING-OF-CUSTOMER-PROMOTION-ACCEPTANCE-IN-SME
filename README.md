@@ -1,7 +1,7 @@
 # Predictive Modeling of Customer Promotion Acceptance
-**Floriand Beshku | [cite_start]2026** [cite: 1]
+**Floriand Beshku | 2026** 
 
-[cite_start]This project demonstrates how data can be used to improve promotional decision-making by replacing intuition-based marketing with an objective, data-driven approach[cite: 13]. [cite_start]Rather than relying on assumptions, this analysis predicts which customers are most likely to accept a promotion and identifies the specific behaviors that influence that decision[cite: 14].
+[cite_start]This project demonstrates how data can be used to improve promotional decision-making by replacing intuition-based marketing with an objective, data-driven approach[cite: 13]. [cite_start]Rather than relying on assumptions, this analysis predicts which customers are most likely to accept a promotion and identifies the specific behaviors that influence that decision.
 
 ## 📊 Business Problem
 [cite_start]In many businesses, promotional decisions are driven by intuition, leading to inefficient use of marketing resources[cite: 30, 31]. [cite_start]This project addresses the lack of a reliable, data-driven method for targeting promotions[cite: 37].
